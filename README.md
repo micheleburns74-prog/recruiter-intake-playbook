@@ -11,6 +11,8 @@ A practical question set for the first meeting with a hiring manager, and the pl
 - [`hiring-plan-template.md`](hiring-plan-template.md): the one-page plan you send back within 24 hours, covering success profile, constraints, sourcing, pipeline targets, timeline, risks and cadence.
 - [`example-hiring-plan.md`](example-hiring-plan.md): the template filled in for a fictional company and role, so you can see it end to end.
 - [`pipeline-math.md`](pipeline-math.md): how to work backward from one hire to outreach volume and a realistic timeline.
+- [`interview-scorecard.md`](interview-scorecard.md): a scorecard built from the intake, so every interviewer rates the same competencies.
+- [`first-30-days-checklist.md`](first-30-days-checklist.md): week-by-week checklist for the first month of the search.
 
 Examples lean toward engineering and developer-tools roles. Swap in your own.
 
