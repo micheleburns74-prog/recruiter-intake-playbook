@@ -23,6 +23,10 @@ Examples lean toward engineering and developer-tools roles. Swap in your own.
 3. Close by asking for the four commitments.
 4. Within 24 hours, send the hiring plan and ask the manager to correct it. Review the pipeline numbers against it every week.
 
+## Related
+
+- [`comp-gap-playbook`](https://github.com/micheleburns74-prog/comp-gap-playbook): what to do when the approved pay band doesn't match the job description.
+
 ## About
 
 Written by Michele Burns, senior technical recruiter. This is a general template. It contains no employer, candidate, or compensation data, and the example plan is fictional.
